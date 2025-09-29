@@ -15,7 +15,7 @@ TWITTER: https://x.com/JingoFinance
 TELEGRAM https://t.me/JingoFinance
 
 */
-// SPDX-License-Identifier: GPL-2.0-or-later
+
 // File: pumpnative/pumpnative/src/IERC20.sol
 
 

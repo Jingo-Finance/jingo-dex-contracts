@@ -15,7 +15,7 @@ TWITTER: https://x.com/JingoFinance
 TELEGRAM https://t.me/JingoFinance
 
 */
-// SPDX-License-Identifier: UNLICENSED
+
 // File: contracts/ITokenLockerManagerV1.sol
 
 
