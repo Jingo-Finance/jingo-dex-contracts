@@ -1,4 +1,20 @@
+// SPDX-License-Identifier: UNLICENSE
 
+/*
+   ___ _                    ______ _                            
+  |_  (_)                   |  ___(_)                           
+    | |_ _ __   __ _  ___   | |_   _ _ __   __ _ _ __   ___ ___ 
+    | | | '_ \ / _` |/ _ \  |  _| | | '_ \ / _` | '_ \ / __/ _ \
+/\__/ / | | | | (_| | (_) | | |   | | | | | (_| | | | | (_|  __/
+\____/|_|_| |_|\__, |\___/  \_|   |_|_| |_|\__,_|_| |_|\___\___|
+                __/ |                                           
+               |___/                                            
+
+WEBSITE: https://jingo.finance
+TWITTER: https://x.com/JingoFinance
+TELEGRAM https://t.me/JingoFinance
+
+*/
 // File: contracts/lib/openzeppelin-contracts-4.0.0/contracts/token/ERC20/IERC20.sol
 
 
