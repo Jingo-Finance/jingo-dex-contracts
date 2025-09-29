@@ -457,7 +457,7 @@ pragma solidity ^0.8.0;
 
 
 
-contract CMSwap_ReferralSystem is Ownable {
+contract Jingo_ReferralSystem is Ownable {
     using SafeMath for uint256;
 
     struct Referral {
