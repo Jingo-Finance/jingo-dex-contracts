@@ -1,5 +1,22 @@
-// SPDX-License-Identifier: MIT
-// File: ReentrancyGuard.sol
+// SPDX-License-Identifier: UNLICENSE
+
+/*
+    ___ _                    ______ _                            
+  |_  (_)                   |  ___(_)                           
+    | |_ _ __   __ _  ___   | |_   _ _ __   __ _ _ __   ___ ___ 
+    | | | '_ \ / _` |/ _ \  |  _| | | '_ \ / _` | '_ \ / __/ _ \
+/\__/ / | | | | (_| | (_) | | |   | | | | | (_| | | | | (_|  __/
+\____/|_|_| |_|\__, |\___/  \_|   |_|_| |_|\__,_|_| |_|\___\___|
+                __/ |                                           
+               |___/                                            
+
+WEBSITE: https://jingo.finance
+LAUNCHPAD:https://jingo.fun
+TWITTER: https://x.com/JingoFinance
+TELEGRAM https://t.me/JingoFinance
+
+*/
+// SPDX-License-Identifier: UNLICENSED
 
 
 

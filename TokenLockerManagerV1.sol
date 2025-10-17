@@ -11,6 +11,7 @@
                |___/                                            
 
 WEBSITE: https://jingo.finance
+LAUNCHPAD:https://jingo.fun
 TWITTER: https://x.com/JingoFinance
 TELEGRAM https://t.me/JingoFinance
 
